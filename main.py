@@ -233,11 +233,11 @@ def random_mark(quantity = 5, min_mark = 0, max_max = 100):
 
 
 # создаем студентов
-student1 = Student("Михаил", "Фиков", "89527894563")
-student2 = Student("Александр", "Зеленин", "dfgd89547549513")
-student3 = Student("Никита", "Егоров", "89785914596")
-student4 = Student("Алена", "Самарина", "89985418525")
-student5 = Student("Анастасия", "Дудка", "89526547896")
+student1 = Student("Михаил", "Егоров", "89527894563")
+student2 = Student("Александр", "Романов", "dfgd89547549513")
+student3 = Student("Никита", "Дудкин", "89785914596")
+student4 = Student("Алена", "Фикова", "89985418525")
+student5 = Student("Анастасия", "Зеленина", "89526547896")
 
 student_list = [student1, student2, student3, student4, student5]
 
