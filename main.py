@@ -1,4 +1,5 @@
 # uml схема - https://drive.google.com/file/d/1ouhlnpN_RRffQcNUTSBC-UOFRgwMoYsj/view?usp=sharing
+# github https://github.com/KolyanPWNZ/Codemika_25
 
 import re
 import random
